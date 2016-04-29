@@ -1,0 +1,4 @@
+Make Each floor it's own class instead of structure
+Make the player a class, and make an item class, with child classes
+Make monsters classes
+Make generation make more rooms than random chaos. While Chaos is alright, more rooms are needed.
